@@ -32,7 +32,7 @@
             <mxPoint x="154" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="PfrNFEkH6RPlxzCo58Qz-0" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="PfrNFEkH6RPlxzCo58Qz-0" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="254" y="330" as="targetPoint" />
@@ -44,15 +44,10 @@
         <mxCell id="PfrNFEkH6RPlxzCo58Qz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PfrNFEkH6RPlxzCo58Qz-0" target="PfrNFEkH6RPlxzCo58Qz-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PfrNFEkH6RPlxzCo58Qz-5" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PfrNFEkH6RPlxzCo58Qz-4">
-          <mxGeometry x="-0.15" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PfrNFEkH6RPlxzCo58Qz-0" value="是否配置了达到购买限制交互" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="302" y="300" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PfrNFEkH6RPlxzCo58Qz-1" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PfrNFEkH6RPlxzCo58Qz-0" target="PfrNFEkH6RPlxzCo58Qz-2">
+        <mxCell id="PfrNFEkH6RPlxzCo58Qz-1" value="是&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PfrNFEkH6RPlxzCo58Qz-0" target="PfrNFEkH6RPlxzCo58Qz-2">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="402" y="339.5" as="sourcePoint" />
@@ -99,6 +94,9 @@
         </mxCell>
         <mxCell id="PfrNFEkH6RPlxzCo58Qz-16" value="是否配置了 【已开通按钮图片点击交互方式】" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="284" y="750" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PfrNFEkH6RPlxzCo58Qz-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
