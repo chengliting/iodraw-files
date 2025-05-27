@@ -46,8 +46,8 @@
         <mxCell id="vZatcq8N93M4vitNPA7G-15" value="点击弹窗【 取消】按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="310" width="139" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vZatcq8N93M4vitNPA7G-17" value="点击弹窗【 取消】按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="320" width="139" height="40" as="geometry" />
+        <mxCell id="vZatcq8N93M4vitNPA7G-17" value="关闭弹窗&lt;div&gt;关闭页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="300" width="139" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
