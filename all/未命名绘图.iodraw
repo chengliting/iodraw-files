@@ -34,16 +34,14 @@
             <mxPoint x="220" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vZatcq8N93M4vitNPA7G-14" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;点击弹窗【 确认】按钮&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;imageWidth=50;" vertex="1" connectable="0" parent="vZatcq8N93M4vitNPA7G-6">
-          <mxGeometry x="-0.2624" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vZatcq8N93M4vitNPA7G-0" value="展示蒙层及弹窗" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vZatcq8N93M4vitNPA7G-13" value="点击弹窗【 确认】按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="510" width="139" height="40" as="geometry" />
+          <mxGeometry x="151" y="420" width="139" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vZatcq8N93M4vitNPA7G-15" value="点击弹窗【 确认】按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="161" y="430" width="139" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
